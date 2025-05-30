@@ -60,8 +60,4 @@ This repository demonstrates two transfer-learning strategies—fixed feature ex
 | Fixed Feature Extractor     | 12%                 |
 | Full Fine-Tuning            | 20%                 |
 
-![Validation Accuracy over Epochs](figures/validation_accuracy.png)
-
 > **Insight:** Full fine-tuning shows a steeper accuracy gain across epochs despite the limited 10-epoch budget.
-
----
