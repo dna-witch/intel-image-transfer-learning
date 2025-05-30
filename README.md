@@ -61,3 +61,11 @@ This repository demonstrates two transfer-learning strategies—fixed feature ex
 | Full Fine-Tuning            | 20%                 |
 
 > **Insight:** Full fine-tuning shows a steeper accuracy gain across epochs despite the limited 10-epoch budget.
+
+---
+
+## Future Work
+
+* Epoch Tuning: Train for more epochs and sweep learning rates.
+* Advanced Augmentations: Add rotations, affine transforms, noise.
+* Architecture Comparison: Benchmark ResNet-18 vs ResNet-34/50.
