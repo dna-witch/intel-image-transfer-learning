@@ -1,6 +1,6 @@
 # Transfer Learning on Intel Image Classification Dataset
 
-**Transfer Learning • PyTorch • ResNet-18 • Computer Vision • Data Augmentation**
+**PyTorch • CNN • ResNet-18 • Computer Vision • Data Augmentation • Transfer Learning**
 
 ---
 
