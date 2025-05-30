@@ -19,7 +19,9 @@ This repository demonstrates two transfer-learning strategies—fixed feature ex
   - Test: 3 000 images  
 - **Preprocessing**  
   - Resize to 224×224 for ResNet-18 compatibility  
-  - Normalize channels using ImageNet mean & standard deviation  
+  - Normalize channels using ImageNet mean & standard deviation
+ 
+> **Note:** Augmentations were mistakenly applied to validation data as well; future pipelines will restrict them to the training split only.
 
 ---
 
